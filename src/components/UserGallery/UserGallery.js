@@ -23,7 +23,6 @@ class UserGallery extends Component {
     return(
       <div>
         <h2>USER GALLERY</h2>
-        <p>{this.props.match.params.id}</p>
         <ul>
           {this.renderGallery()}
         </ul>
