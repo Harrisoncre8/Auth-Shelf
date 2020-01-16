@@ -12,8 +12,6 @@ Using the SERN stack, my group and I were able to create an application that sor
 ## Wireframe
 
 ![Screenshot 1](wireframes/image1.png)
-![Screenshot 2](wireframes/image2.png)
-![Screenshot 3](wireframes/image3.png)
 
 ### Prerequisites
 
