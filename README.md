@@ -28,7 +28,7 @@ This is a step by step list for how another developer could get this project up 
 6. The npm run client command will open up a new browser tab for you!
 
 ## Usage
-You can use this applicaiton to learn more about movies as well as make edits to the description and title of all the listed movies. 
+You can use this applicaiton to learn more about authorization and authentication to allow different types of access for users with different clearance levels to your app.
 
 ## Built With
 * SERN Stack
